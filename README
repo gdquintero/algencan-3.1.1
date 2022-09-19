@@ -1,2 +1,7 @@
-To compile type make in the path: /home/algencan-3.1.1
+To compile Algencan 3.1.1 first give permissions to the script by typing:
 
+sudo chmod +x install.sh
+
+and then type
+
+./install.sh
