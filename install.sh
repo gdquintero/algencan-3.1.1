@@ -2,7 +2,7 @@
 mkdir bin
 mkdir bin/ampl
 mkdir bin/c
-mkdir cutest
+mkdir bin/cutest
 mkdir lib
 
 # Compile
