@@ -1,3 +1,6 @@
+rm -rf bin
+rm -rf lib
+
 # Creating necessary folders
 mkdir bin
 mkdir bin/ampl
